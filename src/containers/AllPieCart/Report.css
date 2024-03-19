@@ -1,0 +1,18 @@
+
+ .nav-link.active{
+     color: blue !important;
+     background-color: #00FFFF !important;
+ }
+
+.nav-link.active {
+    color: #000 !important;
+    background-color:#f1f1f1 !important;
+}
+.tab-content {
+    margin-top: 30px;
+}
+
+.table td, .table th {
+    padding: 5px;
+    font-size: 14px;
+}

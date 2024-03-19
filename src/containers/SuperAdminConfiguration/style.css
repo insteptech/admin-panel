@@ -1,0 +1,13 @@
+.hello{
+    width: 8.05%;
+    color:black;
+    font-size: 12px;
+    /* font-weight: 10px; */
+    height:auto;
+    text-align: auto;
+    border: 0.05px solid rgb(228, 228, 238);
+}
+ /* .nav-link.active{
+     color: blue !important;
+     background-color: #00FFFF !important;
+ } */
